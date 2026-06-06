@@ -42,6 +42,29 @@ This repository contains the **cinematic landing page** for InternHunt, built wi
 
 ---
 
+## 📸 Screenshots
+
+<table>
+  <tr>
+    <td align="center"><b>The Problem</b></td>
+    <td align="center"><b>The Reality</b></td>
+  </tr>
+  <tr>
+    <td><img src="assets/screenshots/the-problem.png" alt="The Problem — Thousands of students apply, few find the right opportunity"/></td>
+    <td><img src="assets/screenshots/the-reality.png" alt="The Reality — Every resume tells a story. Most platforms never read it."/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Product Reveal</b></td>
+    <td align="center"><b>Final CTA</b></td>
+  </tr>
+  <tr>
+    <td><img src="assets/screenshots/product-reveal.png" alt="Introducing INTERNHUNT — Smart Matching Engine"/></td>
+    <td><img src="assets/screenshots/final-cta.png" alt="Discover Opportunities That Match Your Potential"/></td>
+  </tr>
+</table>
+
+---
+
 ## 🛠️ Tech Stack
 
 | Technology | Version | Purpose |

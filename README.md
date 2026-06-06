@@ -68,18 +68,18 @@ This repository contains the **cinematic landing page** for InternHunt, built wi
 
 ---
 
-## 🧠 Landing Page Sections
+## 🧠 Page Structure
 
-| Section | Description |
-|---|---|
-| **The Problem** | Cinematic opening — highlights the broken internship search experience |
-| **The Reality** | Floating resume card metaphor — most platforms never truly read your resume |
-| **Discovery** | Builds anticipation — what if a platform could understand your skills? |
-| **Product Reveal** | Dramatic INTERNHUNT brand reveal with glassmorphism mockup |
-| **How It Thinks** | Animated pipeline — Resume → Analysis → Extraction → Matching → Results |
-| **Why It Matters** | Values grid — Free forever, Privacy first, Built for students |
-| **Vision** | Future roadmap — Skill Analysis → Career Matching → Growth Tracking → Success |
-| **Final CTA** | Premium call-to-action with glassmorphism button linking to the live app |
+The landing page is designed as a **cinematic scrolling experience**, telling a story from problem to solution:
+
+1. **The Problem** — Opens with a bold, full-screen statement about the broken internship search process that every student faces.
+2. **The Reality** — Floating resume card animations illustrate how most platforms scan keywords instead of understanding your actual skills.
+3. **Discovery** — A build-up section that asks *"What if a platform could truly understand you?"*, creating anticipation before the reveal.
+4. **Product Reveal** — The dramatic INTERNHUNT brand moment, with a glowing hero title and a glassmorphism product mockup.
+5. **How It Thinks** — An animated step-by-step pipeline showing exactly how InternHunt processes your resume: Upload → Analyze → Extract → Match → Recommend.
+6. **Why It Matters** — A values grid covering the three core pillars: 100% Free Forever, Privacy First, and Built for Students.
+7. **Vision** — A forward-looking section showing the roadmap from Skill Analysis → Career Matching → Growth Tracking → Success.
+8. **Final CTA** — A premium glassmorphism call-to-action button that takes users directly to the live InternHunt app.
 
 ---
 
